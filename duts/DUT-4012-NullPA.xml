@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dut type="structure">
+   <header type="structure">
+      <format type="double">1</format>
+      <date type="string">2016-june-08</date>
+      <description type="string">4012 null pa</description>
+      <copyright type="string">(C) Copyright Qualcomm (UK) Ltd 2016 All rights reserved</copyright>
+   </header>
+   <mipibus type="list">
+      <mipibus-item type="structure">
+         <usid type="double">4</usid>
+         <class type="string">qti.rffe.drivers.Modulator4012</class>
+         <arbToModulatorGain type="double">1</arbToModulatorGain>
+         <etGain type="double">2.688</etGain>
+         <etOffsetV type="double">4.3608</etOffsetV>
+    </mipibus-item>
+    <mipibus-item type="structure">
+         <usid type="double">12</usid>
+         <class type="string">qti.rffe.drivers.PaNull</class>
+         <etVoltageMax type="double">3.7</etVoltageMax>
+         <aptVoltageMax type="double">3.2</aptVoltageMax>
+      </mipibus-item>
+   </mipibus>
+</dut>

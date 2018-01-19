@@ -1,0 +1,10 @@
+<config>
+  <image_tree>
+    <name>ETTS.WIN.1.0</name>
+    <build_id>ETTS.WIN.1.0-00023-ETTS-10</build_id>
+    <branch_point_revision/>
+    <revision>00023</revision>
+    <spin>10</spin>
+    <client>ETTS</client>
+  </image_tree>
+</config>

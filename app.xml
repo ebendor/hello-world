@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appSettings type="structure">
+   <conTxt type="string">external</conTxt>
+   <titleBarTxt type="string">ETSE Loading ...</titleBarTxt>
+   <productTitleTxtLn1 type="double"/>
+   <productTitleTxtLn2 type="string">Envelope Tracking</productTitleTxtLn2>
+   <productTitleTxtLn3 type="string">Surface Explorer (ETSE)</productTitleTxtLn3>
+   <productVerTxt type="string">23.10</productVerTxt>
+   <productIdTxt type="string">ETTS.WIN1.0</productIdTxt>
+   <licencingNameTxt type="string"/>
+   <licencingCoTxt type="string"/>
+   <copyrightDateTxt type="string">2010-2017</copyrightDateTxt>
+   <screenModalBool type="logical">0</screenModalBool>
+</appSettings>
